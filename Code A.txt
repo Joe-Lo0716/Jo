@@ -1,0 +1,10 @@
+public class Testa{
+    public static main(args[]){
+        system.out.println("hollow)
+    }
+}
+public class Testb{
+    public static main(args[]){
+        system.out.println("good morning)
+    }
+}
