@@ -1,4 +1,4 @@
 print("good")
-print("bad")
+print("bad A")
 print("dog")
 print("cat")
