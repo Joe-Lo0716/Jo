@@ -1,4 +1,8 @@
 print("good")
-print("bad A")
+<<<<<<< HEAD
+print("bad AF")
+=======
+print("bad D")
+>>>>>>> a1360de680d801aeda544f46a6d4f1e83bad96d6
 print("dog")
 print("cat")
