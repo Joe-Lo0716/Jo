@@ -1,3 +1,4 @@
 print("good")
 print("bad")
 print("dog")
+print("cat")
